@@ -33,7 +33,7 @@ cd backend
 
 
 ### .env create file  This is only for assignment purpose after few day it will change
-MONGO_URL="mongodb+srv://dammardhakal426_db_user:INh9IPN3oNvrtoB0@cluster0.o5bauat.mongodb.net/"
+MONGO_URL="mongodb+srv://:@cluster0.o5bauat.mongodb.net/"
 PORT=8000
 JWT_SECRET="fkdsfajksdhfjashdfjkhasldfjhjsfhlaskdhfkjasdhfkweiuryqwieuryqwoieryqiuwery"
 
